@@ -4,13 +4,45 @@ p{
     font-family:'Times New Roman', Times, serif;
     border: 2px solid black;
     padding: 20px ;
-    left
+    
 }
 h1{
-    color: blueviolet;
+    color: ;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    color:blue;
     font-size: large;
     font-family:'Times New Roman', Times, serif;
 }
 body{
-    color: pink;
+    color: rgb(201, 24, 54);
+}
+
+a:link {  
+color:rgb(224, 127, 8);
+background-color: transparent;
+text-decoration:wavy;
+
+}
+
+a:visited {
+color: red;
+background-color: transparent;
+text-decoration: none;
+    
+}
+
+a:hover {
+    color: blueviolet;
+    background-color: transparent;
+    text-decoration: underline;
+     
+}
+
+a:active {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: underline;
 }
